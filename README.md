@@ -9,8 +9,8 @@ The current data is located at https://wtafiles.wtatennis.com/pdf/rankings/All_C
 2. Create basic EDA charts
   * ~~log-log of earnings vs Rank~~
   * ~~histogram by country~~
-  * how many girls without a country have a name ending in OVA?
-  * what are the last three letters of all girls without a country?
+  * ~~how many girls without a country have a name ending in OVA?~~
+  * ~~what are the last three letters of all girls without a country?~~
 3. ~~Create a link to Wikipedia listing~~
 4. Validate Wiki link and provide stats
 5. Scrape Wiki for extra player info:
