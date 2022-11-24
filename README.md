@@ -13,6 +13,7 @@ The current data is located at https://wtafiles.wtatennis.com/pdf/rankings/All_C
   * ~~what are the last three letters of all girls without a country?~~
 3. ~~Create a link to Wikipedia listing~~
 4. Validate Wiki link and provide stats
+  * will be generated as byproduct of item **5**
 5. Scrape Wiki for extra player info:
   * Country
   * Birthday/Age
