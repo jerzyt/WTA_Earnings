@@ -26,4 +26,10 @@ The current data is located at https://wtafiles.wtatennis.com/pdf/rankings/All_C
   * Highest Rank
   * Singles vs Doubles Earnings
 6. Data cleaning
-7. Build Predictive Model For Earnings
+7. Advanced EDA
+  * Are tennis players getting taller: height vs age
+  * Does height correlate with rankings?  Are taller players better?
+  * Does height correlate with earnings?
+  * Is height dependent on the country?
+  * Is height increasing over time?
+8. Build Predictive Model For Earnings
