@@ -25,3 +25,5 @@ The current data is located at https://wtafiles.wtatennis.com/pdf/rankings/All_C
   * Titles
   * Highest Rank
   * Singles vs Doubles Earnings
+6. Data cleaning
+7. Build Predictive Model For Earnings
